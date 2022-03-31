@@ -4,3 +4,7 @@
 
 layout: home
 ---
+![Lewis Irvine](/assets/images/lewis_photo_square.jpg){: width="250"}
+
+Hello! I'm Lewis, and this is my website.
+
